@@ -1,0 +1,2 @@
+# SecureMe_Configuration_Properties
+Configuration properties for all microservices
